@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Soluciones/title>
+    <style>
+              body {
+                background: #888888;
+                width: 90%;
+                height: 100%;
+                font-size: 12pt;
+                font-family: Helvetica, Verdana, Arial, sans-serif;
+                background: url(https://s-media-cache-ak0.pinimg.com/originals/1e/1d/70/1e1d70e0038c7e3ef308278877569266.png) 0% 50%/ cover no-repeat fixed rgb(84, 107, 172);
+                color: black;
+              }
+              .rules {
+                background: rgba(250, 250, 250, 0.65);
+                width: 640px;
+                margin-left: 380px;
+                margin-right: auto;
+                border-radius: 77px;
+                border: 6px solid #400DBC;
+              }
+              .rules a {
+                color: #0B3B0B;
+                text-decoration: strong;
+              }
+              .intro {
+                width: auto;
+                margin-left: 400px;
+                margin-right: auto;
+                text-align: justify;
+                line-height: 24px;
+              }
+              li {
+                width: 500px;
+                padding-top: 6px;
+                padding-bottom: 6px;
+                margin-left: auto;
+                margin-right: auto;
+                text-indent: 48px;
+                text-align: justify;
+                line-height: 24px;
+                color: black;
+              }
+              h1, h2 {
+                text-align: center;
+                font-style: italic;
+                color: black
+              }
+              </style>
+</head>
+ 
+<body>
+    <div class="rules">
+        <center>
+            <p>
+            </p>
+ 
+ 
+            <h1>Soluciones Potenciales</h1>
+ 
+ 
+            <p>
+            </p>
+            <img src="https://www.spriters-resource.com/resources/sheet_icons/27/29904.png" title="Álvaro"><img src="https://www.spriters-resource.com/resources/sheet_icons/27/29904.png" title="problema tú warro"><img src="https://www.spriters-resource.com/resources/sheet_icons/27/29904.png" title="Volo el feo c:/mank">
+        </center>
+ 
+ 
+        
+           <li>Restricciones al tráfico</li>
+       
+ 
+            <li>Fomentar el uso de transporte púlico, y que estos sean menos contaminantes</li>
+ 
+ 
+            <li>Reducción de la velocidad en carretera, sobre todo en cinturones periféricos</li>
+ 
+ 
+            <li>Medidores en las zonas de mayor concentración de contaminación que ofrezcan datos fiables en los que basarse</li>
+ 
+ 
+            <li>Fomentar iniciativas para compartir vehículos privados o empresas dedicadas al carsharing (Uso temporar de vehículos compartidos) y ayudas a la adquisición de vehículos eléctricos.</li>
+       </ol>
+
+<h2>¿Qué sucedería si no se resuerve?</h2>
+ 
+ 
+        <ol>
+         <li>China es uno de los países más contaminados del mundo y que más rápidamente está agotando sus recursos. Científicos asiáticos han afirmado que para el año 2030 no quedará agua aprovechable en China. Más de 750.000 personas mueren al año en China prematuramente por culpa de la contaminación. Ciudades como Shanghai o Pekín tiene gran parte de culpa de esta contaminación. Los niveles de contaminación en Pekín alcanza los 600 microgramos por cada metro cúbico de aire. Si siguen los niveles de contaminación tan altos habrá cada año más muertes, el agua se podría acabar antes de lo previsto y afectar a muchísimas personas.
+ 
+        <ul>
+            <li>Componentes del trabajo:<span style="color:#FFC0CB;">Álvaro</span> y <span style="color:#FE2E2E;"><span style="color:#00ABFF;">Volo</span></span></li>
+ 
+ 
+            <li>Editación Web: <span style="color:#FFC0CB;">Álvaro</span></li>
+        </ul>
+    </div>
+</body>
+</html>
+
